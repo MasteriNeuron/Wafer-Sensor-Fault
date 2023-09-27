@@ -14,7 +14,7 @@ conda create --prefix venv python==3.8 -y
 ```
 conda activate venv/
 ````
-2. Install Requirements and setup
+2. Install Requirements and setup and plY
 ```
 pip install -r requirements.txt
 ```
