@@ -24,7 +24,7 @@ python app.py
 ```
 hekllovcb
 
-🔧 Built with
+🔧 Built with MUZU
 - flask
 - Python 3.8
 - Machine learning
