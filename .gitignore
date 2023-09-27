@@ -5,8 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-demo.py
-artifacts/
+demo.py/
 logs/
 # Distribution / packaging
 .Python
